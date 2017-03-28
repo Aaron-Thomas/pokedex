@@ -1,5 +1,4 @@
 # pokedex
-Pokedex App:
 
 Created a Pokedex to display 718 different types of Pokemon in a UIColectionView.
 
